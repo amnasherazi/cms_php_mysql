@@ -1,0 +1,1 @@
+A simple CMS ( Content Management System ) created using plain php and mysql ( Database ).
